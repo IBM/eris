@@ -6,3 +6,6 @@ Eris is an open project to standardize specifications for Chaos Engineering expe
 As part of the IBM Academy of Technology's initiative on Chaos Engineering, a gap was identified to describe and declare experiments of fault injection using a commonly agreed specification that can be followed by Chaos Engineers, SREs and Developers when performing Chaos tests. The Eris project aims  to close this gap and build an open community to build a standardized way to declare Chaos Experiments to help draft experiments and also achieve interoperability between different Chaos Engineering tools. 
 
 We aim to contribute the first version to the open source community and invite other Chaos Engineering industry leaders to contribute and advocate.
+
+APACHE LICENSE, VERSION 2.0
+https://www.apache.org/licenses/LICENSE-2.0.txt
