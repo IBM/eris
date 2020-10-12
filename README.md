@@ -1,5 +1,5 @@
 # Eris
-"Eris is the Greek goddess of strife and discord. Eris teaches us that the only truth is chaos." 
+"Eris (Greek: Ἔρις Éris) is the Greek goddess of strife and discord. Eris teaches us that the only truth is chaos." 
 
 Eris is an open project to standardize specifications for Chaos Engineering experiments. Chaos Engineering validates the reliability of mission-critical workloads by injecting failures to gain confidence that systems are resilient.
 
